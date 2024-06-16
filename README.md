@@ -18,4 +18,4 @@
 Repository branches for our project:
   - [Machine Learning]()
   - [Cloud Computing]()
-  - [Mobile Development]([https://github.com/RexRama/Nutrifish-C241-PS164/tree/mobileDevelopment](https://github.com/NutriFish-C241-PS164/Nutrifish-C241-PS164-MobileDevelopment))
+  - [Mobile Development]([https://github.com/RexRama/Nutrifish-C241-PS164/tree/mobileDevelopment](https://github.com/NutriFish-C241-PS164/Nutrifish-C241-PS164-MobileDevelopment)
