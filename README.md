@@ -10,6 +10,8 @@
 | Soraya Sabrina    | M010D4KX3347 | Machine Learning | Universitas Indonesia |
 
 
+## App Download Link:
+- [NutriFish](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/releases/download/app/NutriFish-V0.5.apk)
 
 
 ## Repository Branches
