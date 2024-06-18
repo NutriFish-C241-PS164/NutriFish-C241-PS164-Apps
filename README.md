@@ -1,4 +1,7 @@
 # NutriFish-C241-PS164-Apps
+![view](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/blob/main/nutriFish.png)
+
+
 ## Team Members – C241-PS164
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
