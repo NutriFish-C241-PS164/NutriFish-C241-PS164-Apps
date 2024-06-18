@@ -1,4 +1,4 @@
-# NutriFish-C241-PS164-Apps
+# NutriFish-C241-PS164
 ![view](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/blob/main/nutriFish.png)
 
 
