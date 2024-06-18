@@ -14,8 +14,12 @@
 - [NutriFish v1.0](https://github.com/NutriFish-C241-PS164/Nutrifish-C241-PS164-MobileDevelopment/releases/download/v1.0/NutriFish-v1.0.apk)
 
 
+## Application Architecture
+![view](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/blob/main/MVVM.png)
+
+
 ## Cloud Architecture
-![viewmodel]()
+![viewmodel](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/blob/main/cloudArchitecture.png)
 
 
 ## Repository Branches
