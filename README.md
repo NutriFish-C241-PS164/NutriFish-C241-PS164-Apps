@@ -11,7 +11,7 @@
 
 
 ## App Download Link:
-- [NutriFish](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/releases/download/app/NutriFish-V0.5.apk)
+- [NutriFish v1.0](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/releases/download/v1.0/NutriFish-v1.0.apk)
 
 
 ## Repository Branches
