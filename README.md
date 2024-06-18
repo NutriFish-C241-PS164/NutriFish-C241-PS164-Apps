@@ -16,6 +16,6 @@
 
 ## Repository Branches
 Repository branches for our project:
-  - [Machine Learning]()
+  - [Machine Learning](https://github.com/NutriFish-C241-PS164/Machine-Learning)
   - [Cloud Computing](https://github.com/NutriFish-C241-PS164/API)
   - [Mobile Development](https://github.com/NutriFish-C241-PS164/Nutrifish-C241-PS164-MobileDevelopment)
