@@ -14,6 +14,10 @@
 - [NutriFish v1.0](https://github.com/NutriFish-C241-PS164/Nutrifish-C241-PS164-MobileDevelopment/releases/download/v1.0/NutriFish-v1.0.apk)
 
 
+## Cloud Architecture
+![viewmodel]()
+
+
 ## Repository Branches
 Repository branches for our project:
   - [Machine Learning](https://github.com/NutriFish-C241-PS164/Machine-Learning)
