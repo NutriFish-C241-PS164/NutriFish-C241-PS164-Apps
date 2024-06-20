@@ -25,6 +25,28 @@
 ![viewmodel](https://github.com/NutriFish-C241-PS164/NutriFish-C241-PS164-Apps/blob/main/cloudArchitecture.png)
 
 
+## Build Tools & Libraries
+- **Machine Learning:**
+  - Python
+  - TensorFlow
+  - Keras
+  - Skicit-learn
+  - Google Colab
+
+- **Mobile Development:**
+  - Figma
+  - Android SDK 26
+  - Android Studio
+  - Kotlin
+  - Tensorflow Lite
+  - Firebase Auth
+
+- **Cloud Computing:**
+  - Google Cloud Run
+  - Firestore
+  - Firebase Auth
+  - Express.js
+
 ## Repository Branches
 Repository branches for our project:
   - [Machine Learning](https://github.com/NutriFish-C241-PS164/Machine-Learning)
