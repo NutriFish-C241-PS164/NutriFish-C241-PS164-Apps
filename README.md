@@ -30,7 +30,7 @@
   - Python
   - TensorFlow
   - Keras
-  - Skicit-learn
+  - Scikit-learn
   - Google Colab
 
 - **Mobile Development:**
