@@ -34,7 +34,6 @@
   - Google Colab
 
 - **Mobile Development:**
-  - Figma
   - Android SDK 26
   - Android Studio
   - Kotlin
@@ -46,6 +45,7 @@
   - Firestore
   - Firebase Auth
   - Express.js
+  - Cloud Storage Bucket
 
 ## Repository Branches
 Repository branches for our project:
