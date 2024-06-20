@@ -31,6 +31,7 @@
   - TensorFlow
   - Keras
   - Scikit-learn
+  - NumPy
   - Google Colab
 
 - **Mobile Development:**
